@@ -40,3 +40,6 @@ Checkout the object detection implementation available in [cvlib](http:cvlib.net
  
  
  (_SSD and Faster R-CNN examples will be added soon_)
+
+
+Made with ❤️ by Farheen
