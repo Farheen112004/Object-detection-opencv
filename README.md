@@ -23,9 +23,9 @@ When it comes to object detection, popular detection frameworks are
  
  `$ wget https://pjreddie.com/media/files/yolov3.weights`
  
- Provided all the files are in the current directory, below command will apply object detection on the input image `dog.jpg`.
+ Provided all the files are in the current directory, below command will apply object detection on the input image `road.jpg`.
  
- `$ python yolo_opencv.py --image dog.jpg --config yolov3.cfg --weights yolov3.weights --classes yolov3.txt`
+ `$ python yolo_opencv.py --image road.jpg --config yolov3.cfg --weights yolov3.weights --classes yolov3.txt`
  
  
  **Command format** 
